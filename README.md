@@ -41,6 +41,12 @@ JavaScript
 4. **Coffee Growers Chatbot**
    - An AI chatbot designed to assist coffee growers with information related to coffee cultivation
 
+## Project Pitch
+
+This project is a personal portfolio website designed to showcase my skills, academic projects, and professional profile. The website acts as a digital resume where visitors can explore my technical abilities, projects, and contact information.
+
+The portfolio includes sections such as About, Skills, Projects, and Contact, providing a structured and interactive way to present my work. By creating this portfolio, I developed a professional online presence that helps recruiters and collaborators easily understand my experience and technical background.
+
 ## Author
 
 Amrutha H S  
